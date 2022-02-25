@@ -1,5 +1,5 @@
 # Wifi-Jammer-and-Detector 📍
-### A hacking mind can hack the hacker.
+### A hacking mind can hack the hacker🎃.
 nodemcu wifi jammer, WiFi Jammer is a gadget that is designed to disable wireless devices from hotpots. Why do you need it? You can imagine yourself as a friendly joke (a neighbor, of course, will be delighted when you cut off his Netflix or for example, a football match at the most interesting place) or a criminal application: an attacker can disconnect security cameras or other important equipment from the network. In this article we will discuss what are the inexpensive options for hardware deauthenticators, how to use them and how to protect against such attacks.
 
 ### How does this “nodemcu wifi jammer” work
