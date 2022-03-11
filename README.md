@@ -7,4 +7,4 @@ Unlike real jammers, which interrupt the signal of a radio transmitter with its 
 
 Deauthentication is usually part of a complex attack on a network. It is used to create an “evil twin” of the access point or to intercept a handshake, which then allows you to decrypt the password. However, jamming can be useful in and of itself.
 
-All tips reviewed are highly recommended for educational use only. Blocking the transfer of data and the use of the considered funds may be prosecuted. To carry out penetration tests, you must obtain the appropriate written confirmation of the customer. Remember that the deauthorization data is stored in the logs of the router.
+All tips reviewed are highly recommended for educational use only. Blocking the transfer of data and the use of the considered funds may be prosecuted. To carry out penetration tests, you must obtain the appropriate written confirmation of the customer. Remember that the deauthorization data is stored in the logs of the router..
